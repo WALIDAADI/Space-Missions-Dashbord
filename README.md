@@ -12,9 +12,6 @@ Dynamic Filtering: Interact with the dashboard to filter data based on various c
 
 <img src="Dashboard.png" width="900" height="600">
 
-## Data Sources
-This dashboard is built using data sourced from Maven Analytics, ensuring rich and reliable information.
-
 ## How to Use
 Opening the Dashboard: Launch the .pbix file using Microsoft Power BI Desktop or the Power BI service.
 Interacting with Visualizations: Click on different elements of the dashboard to refine the displayed information.

@@ -9,8 +9,9 @@ Launch Success Rates: Visualize the reliability of different space agencies over
 Total Missions: Discover the number of missions initiated, succeeded, or failed.
 Locations: Explore launch sites and their histories.
 Dynamic Filtering: Interact with the dashboard to filter data based on various criteria.
-Dashboard Preview
-![Dashboard](Dashboard.png)
+
+<img src="Dashboard.png" width="900" height="600">
+
 ## Data Sources
 This dashboard is built using data sourced from Maven Analytics, ensuring rich and reliable information.
 

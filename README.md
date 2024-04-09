@@ -1,7 +1,7 @@
 # Space Missions Dashboard
 Welcome to the repository for our Space Missions Dashboard project, an interactive application designed to provide dynamic insights and in-depth analyses of space missions over the decades.
 
-##Project Overview
+## Project Overview
 Our Space Missions Dashboard is crafted with Power BI, aiming to democratize access to historical and current space missions data. It allows users to explore key success metrics, track the evolution of space technologies, and identify major industry trends.
 
 ## Features
@@ -19,7 +19,7 @@ This dashboard is built using data sourced from Maven Analytics, ensuring rich a
 Opening the Dashboard: Launch the .pbix file using Microsoft Power BI Desktop or the Power BI service.
 Interacting with Visualizations: Click on different elements of the dashboard to refine the displayed information.
 Customization: Feel free to adapt the dashboard to your analytical needs or visual preferences.
-##Requirements
+## Requirements
 To get the most out of the Space Missions Dashboard, ensure you have:
 
 Microsoft Power BI Desktop installed on your computer.
